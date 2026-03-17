@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh Negi</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Java Backend Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **ReactJS, JS, ExpressJS,NodeJS**
+- 💬 Ask me about **Java & its Framework**
 
 - 📫 How to reach me **mnegi7668@gmail.com**
 
